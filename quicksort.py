@@ -3,7 +3,8 @@ def quicksort(arr,low,high):
     q = partition(arr,low,high) #partition 
     quicksort(arr,low,q-1) #recurse left side of partition
     quicksort(arr,q+1,high) #recurse right side of partition
-
+  return arr
+    
 def partition(arr,low,high):
   pivot = arr[high] #pick last value as pivot
   i = low - 1 #begin keeping track of values smaller than pivot
