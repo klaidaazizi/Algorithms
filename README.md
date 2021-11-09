@@ -1,5 +1,5 @@
-# sorting
+# algorithms
 
-Sorting algorithms (followed pseudocode by CLRS)
+Various algorithms (followed pseudocode by CLRS)
 
 Language: Python
