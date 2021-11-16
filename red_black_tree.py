@@ -11,7 +11,6 @@ import math
 import time
 from random import randint
 
-
 class RBNode:
     # constructor of an individual node in RBT
     def __init__(self, key):
