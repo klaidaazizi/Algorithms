@@ -1,5 +1,5 @@
-# algorithms
+# Algo CS5800
 
-Various algorithms (followed pseudocode by CLRS)
+Algorithms from CS5800 (following pseudocode by CLRS)
 
 Language: Python
