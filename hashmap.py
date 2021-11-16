@@ -29,7 +29,7 @@ class Hashmap:
             power = (power * p) % m
 
         return hashvalue
-
+    
     # insert new key with value
     def insert(self, key, value):
         # compute hash index for given key
